@@ -1,6 +1,6 @@
 # Assignment4_RestAssure
 Details of project:
-First open below webpage 
+First open webpage 
 https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies.json  and Assert that list has more than 20 items.
 
 Assert that There's British Pound & United States dollar on the list.
